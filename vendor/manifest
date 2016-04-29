@@ -1,0 +1,63 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/Sirupsen/logrus",
+			"repository": "https://github.com/Sirupsen/logrus",
+			"vcs": "git",
+			"revision": "081307d9bc1364753142d5962fc1d795c742baaf",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/fluent/fluent-logger-golang/fluent",
+			"repository": "https://github.com/fluent/fluent-logger-golang",
+			"vcs": "git",
+			"revision": "8ba04e26e7839fc5ccdae3a1d2e0d77515af0f32",
+			"branch": "master",
+			"path": "/fluent",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/philhofer/fwd",
+			"repository": "https://github.com/philhofer/fwd",
+			"vcs": "git",
+			"revision": "98c11a7a6ec829d672b03833c3d69a7fae1ca972",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/tarm/serial",
+			"repository": "https://github.com/tarm/serial",
+			"vcs": "git",
+			"revision": "a53c419ae7ba5705d100024728f5254b81dd73e9",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/tinylib/msgp/msgp",
+			"repository": "https://github.com/tinylib/msgp",
+			"vcs": "git",
+			"revision": "cf4d6d402b01d9b359f52fc88be0f582402177c0",
+			"branch": "master",
+			"path": "/msgp",
+			"notests": true
+		},
+		{
+			"importpath": "gopkg.in/airbrake/gobrake.v2",
+			"repository": "https://gopkg.in/airbrake/gobrake.v2",
+			"vcs": "git",
+			"revision": "31c8ff1fb8b79a6947e6565e9a6df535f98a6b94",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "gopkg.in/gemnasium/logrus-airbrake-hook.v2",
+			"repository": "https://gopkg.in/gemnasium/logrus-airbrake-hook.v2",
+			"vcs": "git",
+			"revision": "31e6fd4bd5a98d8ee7673d24bc54ec73c31810dd",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
